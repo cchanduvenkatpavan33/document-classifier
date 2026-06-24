@@ -1,4 +1,9 @@
 # 📄 AI Document Classifier
+# AI Document Classifier
+
+## Live Demo
+
+(https://document-classifier-vmggh4antvj3wkf42dr9mr.streamlit.app/)
 
 ##  Project Overview
 
@@ -165,7 +170,7 @@ Through this project, I learned:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Chandu Venkat Pavan**
 

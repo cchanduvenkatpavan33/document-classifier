@@ -1,4 +1,4 @@
-# 📄 AI Document Classifier
+#  AI Document Classifier
 # AI Document Classifier
 
 ## Live Demo
@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Running the Project
+#  Running the Project
 
 Train the model
 

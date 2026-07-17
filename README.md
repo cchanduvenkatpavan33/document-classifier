@@ -178,6 +178,6 @@ Through this project, I learned:
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for educational and internship purposes.
